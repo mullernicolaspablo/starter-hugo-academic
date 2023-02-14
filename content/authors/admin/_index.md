@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nicol\'as Pablo M\"uller 
+title: Nicolás Pablo Müller 
 
 # Full name (for SEO)
-first_name: Nicol\'as
-last_name: M\"uller
+first_name: Nicolás
+last_name: Müller
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ role: Postdoc position
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Observatoire de la C\^ote d'Azur
+  - name: Observatoire de la Côte d'Azur
     url: https://lagrange.oca.eu/fr/accueil-lagrange
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Physics
-      institution: Observatoire de la C\^ote d'Azur
+      institution: Observatoire de la Côte d'Azur
       year: 2019-2022
     - course: Licenciatura in Physics
       institution: Universidad de Buenos Aires
@@ -77,5 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoc candidate at the Observatory of Nice. 
+My research is devoted to numerical and theoretical studies of classical and quantum turbulent flows. 
+My expertise includes the performance of high-resolution direct numerical simulations using parallel computing methods, 
+and the application of statistical methods for the analysis of turbulent flows. 
 {style="text-align: justify;"}
