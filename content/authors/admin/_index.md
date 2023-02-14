@@ -78,7 +78,9 @@ highlight_name: true
 ---
 
 I am a postdoc candidate at the Observatory of Nice. 
-My research is devoted to numerical and theoretical studies of classical and quantum turbulent flows. 
+<!-- My research is devoted to numerical and theoretical studies of classical and quantum turbulent flows. 
 My expertise includes the performance of high-resolution direct numerical simulations using parallel computing methods, 
-and the application of statistical methods for the analysis of turbulent flows. 
+and the application of statistical methods for the analysis of turbulent flows.  -->
+My scientific work is focused on theoretical and numerical studies of superfluid turbulence, mainly based on the Gross-Pitaevskii equation. 
+I am interested in the properties of two- and three-dimensional turbulence, intermittency in quantum and classical flows, and the interaction between quantum vortices and coherent structures in superfluids.
 {style="text-align: justify;"}
