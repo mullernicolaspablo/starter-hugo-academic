@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 
+title: Nicol\'as Pablo M\"uller 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Nicol\'as
+last_name: M\"uller
 
 # Status emoji
 status:
@@ -14,34 +14,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc position
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Observatoire de la C\^ote d'Azur
+    url: https://lagrange.oca.eu/fr/accueil-lagrange
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include classical and quantum turbulent flows. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fluid dynamics
+  - Non-linear physics
+  - Quantum vortices
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: Observatoire de la C\^ote d'Azur
+      year: 2019-2022
+    - course: Licenciatura in Physics
+      institution: Universidad de Buenos Aires
+      year: 2014 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,21 +48,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en&oi=ao
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
