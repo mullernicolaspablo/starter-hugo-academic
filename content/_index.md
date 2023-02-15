@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: #Hugo Academic Theme
+      title: My personal website
 #     image:
 #       filename: hero-academic.png
 #     cta:
@@ -58,9 +58,9 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
+  - block: education
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
