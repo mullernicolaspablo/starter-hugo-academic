@@ -58,7 +58,7 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
@@ -73,7 +73,7 @@ sections:
         - title: PhD degree
           company: Observatoire de la Cote d'Azur
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Nice, France
           date_start: '2019-01-01'
           date_end: '2022-01-01'
