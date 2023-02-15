@@ -58,9 +58,9 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
+  - block: education
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -70,27 +70,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD degree
+          company: Observatoire de la Cote d'Azur
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Nice, France
+          date_start: '2019'
+          date_end: '2022'
           description: |2-
-              Responsibilities include:
+              Quantum vortices, circulation statistics and excitations in superfluid turbulence:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * High-resolution direct numerical simulations of classical and quantum turbulence
+              * Statistical methods
+        - title: Licenciatura in Physics
+          company: Universidad de Buenos Aires
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Buenos Aires, Argentina
+          date_start: '2014'
+          date_end: '2019'
+          description: Critical transition between two- and three-dimensional quantum turbulence
     design:
       columns: '2'
   # - block: accomplishments
