@@ -58,7 +58,7 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
@@ -75,8 +75,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Nice, France
-          date_start: '2019'
-          date_end: '2022'
+          date_start: '2019-01-01'
+          date_end: '2022-01-01'
           description: |2-
               Quantum vortices, circulation statistics and excitations in superfluid turbulence:
 
@@ -87,8 +87,8 @@ sections:
           company_url: ''
           company_logo: 
           location: Buenos Aires, Argentina
-          date_start: '2014'
-          date_end: '2019'
+          date_start: '2014-01-01'
+          date_end: '2019-01-01'
           description: Critical transition between two- and three-dimensional quantum turbulence
     design:
       columns: '2'
