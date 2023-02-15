@@ -28,6 +28,7 @@ bio: My research interests include classical and quantum turbulent flows.
 interests:
   - Fluid dynamics
   - Non-linear physics
+  - Classical and quantum turbulence
   - Quantum vortices
 
 # Education to show in About widget
@@ -35,10 +36,10 @@ education:
   courses:
     - course: PhD in Physics
       institution: Observatoire de la Côte d'Azur
-      year: 2019-2022
+      year: 2022
     - course: Licenciatura in Physics
       institution: Universidad de Buenos Aires
-      year: 2014 - 2019
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
