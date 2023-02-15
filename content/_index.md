@@ -58,7 +58,7 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
+  - block: education
     content:
       title: Education
       # Date format for experience
